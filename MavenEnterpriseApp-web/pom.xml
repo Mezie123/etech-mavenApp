@@ -15,13 +15,13 @@
 	<version>1.0</version>
 
 	<name>MavenEnterpriseApplication</name>
-	<url>http://etecconsultingllc.com.com</url>
+	<url>http://elifecconsultingllc.com.com</url>
 	
 	<description>Maven Enterprise Project</description>
 
 	<organization>
-		<name>Etech Consulting</name>
-		<url>http://etecconsultingllc.com/</url>
+		<name>Elife Consulting</name>
+		<url>http://elifecconsultingllc.com/</url>
 	</organization>
 
 	<properties>
